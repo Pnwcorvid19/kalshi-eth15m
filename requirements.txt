@@ -1,0 +1,7 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+websockets>=12.0
+rich>=13.0.0
+numpy>=1.26.0
+EOF
